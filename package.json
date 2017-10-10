@@ -4,6 +4,6 @@
   "description": "Large sample set of made up items for testing.",
   "license": "CC",
   "dependencies": {
-    "ioredis": "^3.1.4"
+    "redis": "^2.8.0"
   }
 }
